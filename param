@@ -15,4 +15,7 @@ cid:0				//from page
 qid:a704160208bb755b		//from page
 t:1351303259919			//current time
 path:http://www.baidu.com/s	//the path
+<<<<<<< HEAD
 added by chuan
+=======
+>>>>>>> 07db278d6e09c7a4bfadbb1eb4d8261b25ff386e
